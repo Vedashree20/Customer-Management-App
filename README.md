@@ -1,6 +1,6 @@
 # Customer-Management-App
 
-<h3>My frist basic Django project</h3>
+<h3>My first basic Django project</h3>
 <h4>Features-</h4>
 <ul>
   <li>Basic logic/registration system with user authentication.</li>
